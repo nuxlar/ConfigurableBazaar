@@ -1,10 +1,10 @@
 ﻿{
-	"name": "ConfigurableBazaar",
-	"version_number": "0.6.5",
-	"website_url": "",
-	"description": "Makes the bazaar configurable with interactables, rolls, prices, and newt portals *WIP*",
-	"dependencies": [
-		"bbepis-BepInExPack-5.4.9",
-		"RiskofThunder-HookGenPatcher-1.2.1"
-	]
+  "name": "ConfigurableBazaar",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Makes the bazaar configurable with interactables, rolls, prices, and blue portals",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.9",
+    "RiskofThunder-HookGenPatcher-1.2.1"
+  ]
 }
